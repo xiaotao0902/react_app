@@ -1,0 +1,13 @@
+.editor-class { 
+  height: 400px !important; 
+  border: 1px solid #F1F1F1 !important; 
+  padding: 5px !important; 
+  border-radius: 2px !important; 
+}
+
+.archive-button { 
+  float:right;
+  border-top-width: 0px;
+  border-top-style: solid;
+  margin-top: 20px;
+}
